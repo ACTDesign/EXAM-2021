@@ -1,0 +1,158 @@
+
+ body{
+  margin: 0;
+  padding: 0;
+  font-family: Futura, arial, sans-serif;
+  box-sizing: border-box;
+}
+
+  
+.om > a, .om > a{
+  text-decoration: none;
+  color: black;
+}
+
+.om >  a:hover, .om > a:hover{
+  text-decoration: underline;
+}
+
+.quiz > a{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+.quiz >  a:hover, .quiz > a:hover{
+  text-decoration: underline;
+}
+.hvorfor > a{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+.hvorfor >  a:hover, .hvorfor > a:hover{
+  text-decoration: underline;
+}
+
+.produkter > a{
+text-decoration: none;
+color: rgb(0, 0, 0);
+}
+.produkter >  a:hover, .produkter > a:hover{
+text-decoration: underline;
+}
+
+.forside > a{
+text-decoration: none;
+color: rgb(0, 0, 0);
+}
+.forside >  a:hover, .forside > a:hover{
+text-decoration: underline;
+}
+
+iframe{
+  border: black solid 10px;
+  border-radius: 15px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+
+.container-1{
+  display: flex;
+  padding: 10px;
+  color: #333;
+  background-color: green;
+}
+
+.container-2{
+  display: flex;
+}
+
+.container-3{
+  display: flex;
+  flex-direction: column;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: whitesmoke;
+}
+
+
+
+
+.container-5{
+  display: flex;
+  padding: 40px;
+  flex-direction: row;
+  background-color:red;
+}
+
+.container-6{
+  display: flex;
+  flex-direction: row;
+  background-color:red;
+}
+
+
+.container-1 > div{
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.oplysninger > ul{
+  list-style: none;
+  color: whitesmoke;
+  line-height: 2.2em;
+  font-family: Futura book, arial, sans-serif;
+  margin-left: 50px;
+}
+
+
+
+
+.brødtekst-1 > p, .brødtekst-2 > p, .brødtekst-3 > p{
+  font-family: Futura book, arial, sans-serif;
+  width: 85%;
+  line-height: 1.5em;
+  font-size: 16px;
+}
+
+
+.foetex-logo{
+  margin-left: 20px;
+}
+
+
+.beskrivelse{
+  width: 400px;
+}
+
+.video{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+.titel-1{
+  font-size: 1.75em;
+}
+
+.titel-2{
+  margin-top: 20px;
+}
+
+.brødtekst-3{
+  width: 58%;
+
+}
+
+.brødtekst-3 > p{
+  padding: 10px;
+  margin:0;
+}
+
+.brødtekst-2 > p{
+  font-family: Futura, arial, sans-serif;
+}
